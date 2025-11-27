@@ -40,6 +40,7 @@
 top
 ```
 <img width="952" height="232" alt="top ex" src="https://github.com/user-attachments/assets/b0fd60d1-e2bf-4761-950b-365c062ee55b" />
+
 > 실행 후 이미지와 같이 CPU, 메모리, 프로세스 상태를 실시간으로 확인 가능
 
 
@@ -66,8 +67,8 @@ top
 ps aux
 ```
 <img width="937" height="95" alt="ps ex" src="https://github.com/user-attachments/assets/e597aaaa-8680-4f30-b98e-132611b48209" />
-> 실행 후 이미지와 같이 사용자, PID, CPU/메모리 사용량, 실행 시간 등 상세 정보 확인
 
+> 실행 후 이미지와 같이 사용자, PID, CPU/메모리 사용량, 실행 시간 등 상세 정보 확인
 *(가장 많이 쓰이는 전체 목록)*
 
 
@@ -97,9 +98,9 @@ sleep 100 &
 jobs
  ```
 <img width="936" height="115" alt="jobs ex" src="https://github.com/user-attachments/assets/edda90c5-9611-4c78-a00e-5d7473ae923d" />
-`sleep 100: 100초 동안 아무 작업도 하지 않고 대기,&: 명령어를 백그라운드에서 실행`
 
-> 실행 후 이미지와 같이 현재 셸에서 실행 중인 백그라운드 작업 목록 확인
+> `sleep 100: 100초 동안 아무 작업도 하지 않고 대기,&: 명령어를 백그라운드에서 실행`
+실행 후 이미지와 같이 현재 셸에서 실행 중인 백그라운드 작업 목록 확인
 
   
 
